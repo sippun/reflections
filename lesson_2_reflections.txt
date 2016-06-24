@@ -20,3 +20,13 @@ change?
 
 You can review what's in the staging area with diff to see what you're about to
 commit so you can make sure it's not too big or small.
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches would be helpful when making experimental changes or features, creating
+different versions of your code for whatever reason, and basically any change
+you don't consider linearly contributing to the codebase. Branches help by
+letting you navigate and track these changes with labels, history, and structure
+that make it easier to conceptualize what's going on in the big picture.
