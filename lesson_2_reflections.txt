@@ -13,3 +13,10 @@ files in the staging area are on a temporary hold to be added to the repository.
 Since changes are put into the staging area and not committed immediately, an
 accidental commit is less likely to happen. It also lets you control more finely
 what to commit.
+
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can review what's in the staging area with diff to see what you're about to
+commit so you can make sure it's not too big or small.
