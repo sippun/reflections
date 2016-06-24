@@ -1,0 +1,43 @@
+Viewing the diff between two versions of a file helped me see the bug that was
+introduced because the command isolated the differences between the versions
+for me to easily view. So, I was able to scan a much smaller amount of
+information to find the bug compared to the original files in their entirety.
+
+
+Having easy access to the entire history of a file could make me a more
+efficient programmer in the long term because overall, I would probably save
+more time from using version control to find and fix bugs than not using it.
+I will probably end up having a better understanding of the "big picture" of a
+file as I update versions of it with changes and more consciously
+understanding the changes I'm adding/reverting.
+
+
+The pros of manually choosing when to create a commit are that you can make
+updates when significant changes are made, so the history of versions will be
+easier to navigate, because versions will correspond to certain changes being
+made instead of arbitrary points in time when saving automatically. This also
+means you can document the changes more easily, by recording the purpose of a
+commit when it is made.
+The cons include the possibilty of not commiting a new version out of
+forgetfulness, or not feeling it necessary. Also, larger changes since the
+last save can be wiped due to unforeseen circumstances such as power outage or
+computer failure, since automatic saving can happen in smaller intervals.
+
+
+A version control system allowing the saving of multiple files in one commit
+makes a lot of sense considering the interdependencies of coding projects. It
+would be qute difficult to track independent file changes against each other
+when they're supposed to correspond to or depend on each other.
+
+
+The command git log lets you view the history of commits of your project and
+related details, and git diff lets you view the specific changes made to a file
+relative to another version.
+
+
+Using version control would make one more confident to make changes that might
+break something because the change could be easily reverted to a prior version.
+
+
+I'm learning Git as a prerequisite for the Android development Udacity course,
+in order to gain the skills to create an app I want to build.
