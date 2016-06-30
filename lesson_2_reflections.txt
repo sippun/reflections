@@ -39,3 +39,12 @@ understand how commits "see" their parents and what kind of connection exist
 between them based on the direction of the arrows. This lets me see how the
 branches break off at points in the code history and how a commit can be
 detached.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+When two branches are merged together, the changes made since the two diverged
+are added together into a new version that contains changes made in both
+branches. The way it is represented in the diagram shows that the history of
+changes in both branches come together into a new commit.
