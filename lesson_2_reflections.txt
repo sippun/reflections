@@ -30,3 +30,12 @@ different versions of your code for whatever reason, and basically any change
 you don't consider linearly contributing to the codebase. Branches help by
 letting you navigate and track these changes with labels, history, and structure
 that make it easier to conceptualize what's going on in the big picture.
+
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help me understand the branch structure by allowing me to
+understand how commits "see" their parents and what kind of connection exist
+between them based on the direction of the arrows. This lets me see how the
+branches break off at points in the code history and how a commit can be
+detached.
