@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+In all situations, probably. If you want to access your work on multiple machines, a remote repository will keep changes made from different places nicely centralized. Even if you only work from one place, a remote repository will allow you to retrieve your work in the event anything happens to your computer. If you want to share your work with others and open it up for collaboration, a remote repository would be the solution.
